@@ -14,7 +14,6 @@ By the end of these instructions, you will have the following installed:
 * Java, a "virtual machine" that Clojure runs atop of
 * Leiningen, a tool for running Clojure programs
 * Light Table, an editor for Clojure and other programming languages
-* Git, a program for managing your program's code, which is included in the Heroku Toolbelt
 
 ## Instructions by operating system
 
