@@ -12,6 +12,7 @@ We need to do a bit more set up before we continue with this part of the curricu
 By the end of these instructions, you will have the following installed:
 
 * The Heroku Toolbelt, a program for putting your Clojure application on the web
+* Git, a program for managing your program's code, which is included in the Heroku Toolbelt
 
 ### Instructions by operating system
 
