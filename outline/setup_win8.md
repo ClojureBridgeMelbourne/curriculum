@@ -79,33 +79,8 @@ At the bottom of the screen, you will see a cube moving and some text about conn
 
 ![Testing Light Table - running in the instarepl](img/win7/testing-step4.png)
 
-If that worked, great! Close Light Table. We only have one more thing to test, Heroku.
+If that worked, great! Congratulations we are done with the installfest!
 
-Go back to your terminal. You should still be in the `clojure-sample` directory.
-
-Run this command:
-
-`heroku create`
-
-There should be output about something being created. A URL will be displayed. Look at the following example:
-
-![Testing heroku create](img/win7/testing-step5.png)
-
-Next, run the following commands:
-
-```
-git push heroku master
-
-heroku open
-```
-
-Enter "yes" if you are asked if you are sure you want to connect.
-
-Your browser should open (and take a long time to load) and you should see a website like the following:
-
-![Testing heroku working](img/win7/testing-step6.png)
-
-Congratulations! That website is running code you have on your computer that you have uploaded. You have actually made a very simple Clojure app, and your computer is all set up to make more.
 
 
 
