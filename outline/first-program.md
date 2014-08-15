@@ -5,6 +5,23 @@ Now that you know a bit about how to write Clojure code, let's look at how to cr
 
 In order to do that, you'll first create a *project*. You'll learn how to organize your project with *namespaces*. You'll also learn how to specify your project's *dependencies*. Finally, you'll learn how to *build* your project to create the standalone application.
 
+## Some further set up
+
+We need to do a bit more set up before we continue with this part of the curriculum.
+
+By the end of these instructions, you will have the following installed:
+
+* The Heroku Toolbelt, a program for putting your Clojure application on the web
+
+### Instructions by operating system
+
+Choose your operating system to get setup instructions:
+
+* [OS X](setup_web_osx.md)
+* [Windows 7](setup_web_win7.md)
+* [Windows 8](setup_web_win8.md)
+* [Ubuntu Linux](setup_web_ubuntu.md)
+
 ## Create a Project
 
 Up until now you've been experimenting in a REPL. Unfortunately, all the work you do in a REPL is lost when you close the REPL. You can think of a project as a permanent home for your code. You'll be using a tool called "Leiningen" to help you create and manage your project. To create a new project, run this command:
