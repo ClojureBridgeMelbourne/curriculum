@@ -13,6 +13,7 @@ Outline
 * [Flow Control](outline/flow_control.md)
 
 Choice between: 
+* [Making Your First Program](outline/first-program-basic.md)
 * [Extra exercises](https://github.com/ClojureBridgeMelbourne/extra-exercises/wiki)
 
 Or:
